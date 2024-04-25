@@ -2,7 +2,7 @@ Hi everyone!🙋‍♂️ My name is Adrian,I´m from Spain and I´m an autodida
 Python is the best language for me at this moment, and I did too many simple and medium level Python projects, some of them you will see in my Github repositories.
 Programming is the best relaxing practise for me to relax and learn wonderful things. Please take a look to my projects if you are a great programmer😎❤.
 
-     SKILLS/KNOWLEADGE: 
+     SKILLS & KNOWLEADGE 🧠💻
 
          
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
