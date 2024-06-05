@@ -28,8 +28,8 @@ Programming is the best practise for me to relax and learn wonderful things. I i
 ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
 
 |[CurrencyConverter](CurrencyConverter.py)                       
-                                                          ![male-programmer-working-with-computers-free-vector](https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/9e3bff4e-00e4-46fd-a4c7-04300ebdb6c7)
-
+                                                                                                                                                                                           
+                                          ![male-programmer-working-with-computers-free-vector](https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/9e3bff4e-00e4-46fd-a4c7-04300ebdb6c7)
 |[TheSnakeGame](FunnyGames/SnakeGame)
 
 |[ATM-Machine](MyFavouriteProjects/ATMMachine)
