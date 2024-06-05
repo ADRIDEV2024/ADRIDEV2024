@@ -29,21 +29,20 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 
 |[CurrencyConverter](CurrencyConverter.py) 
 
-
 |[TheSnakeGame](FunnyGames/SnakeGame)
-								<p align="center">
-								   <img src="https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/2e4aff75-1b0e-46f7-874d-cf962ed4cbe8
+
 |[ATM-Machine](MyFavouriteProjects/ATMMachine)
-								" alt="[YOUR_ALT]"/>
-								</p>
+								<p align="center">
 |[API-WEATHER](MyFavouriteProjects/WeatherAPI)
-						      
+								   <img src="https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/2e4aff75-1b0e-46f7-874d-cf962ed4cbe8" alt="[YOUR_ALT]"/>
 |[SimpleQuiz-Python](FunnyGames/SimpleQuizGame)
+								</p>
+|[PasswordGenerator](OtherProjects/PasswordGenerator)
+						      
+|[UrlShortener](URLShortener)   
 	                				 
 
-|[PasswordGenerator](OtherProjects/PasswordGenerator)
 
-|[UrlShortener](URLShortener)   
 
 
 
