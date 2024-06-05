@@ -32,6 +32,9 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 |[TheSnakeGame](FunnyGames/SnakeGame)
 
 |[ATM-Machine](MyFavouriteProjects/ATMMachine)
+<p align="center">
+  <img src="https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/9e3bff4e-00e4-46fd-a4c7-04300ebdb6c7" />
+</p>
 
 |[API-WEATHER](MyFavouriteProjects/WeatherAPI)
 
@@ -41,8 +44,5 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 
 |[UrlShortener](URLShortener)   
 
-<p align="center">
-  <img src="https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/9e3bff4e-00e4-46fd-a4c7-04300ebdb6c7" />
-</p>
 
  
