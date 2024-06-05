@@ -39,6 +39,10 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 
 |[PasswordGenerator](OtherProjects/PasswordGenerator)
 
-|[UrlShortener](URLShortener)
+|[UrlShortener](URLShortener)   
 
- ![male-programmer-working-with-computers-free-vector](https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/9e3bff4e-00e4-46fd-a4c7-04300ebdb6c7)
+<p align="center">
+  <img src="https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/9e3bff4e-00e4-46fd-a4c7-04300ebdb6c7" />
+</p>
+
+ 
