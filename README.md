@@ -42,7 +42,7 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 |[SimpleQuiz-Python](FunnyGames/SimpleQuizGame)
 	                				 
 
-<p align="right"
+<p align="justify"
 	
    <img src="https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/2e4aff75-1b0e-46f7-874d-cf962ed4cbe8" 
 	alt="[YOUR_ALT]"/>
