@@ -1,9 +1,10 @@
 ![IMAGEREPO](https://github.com/ADRIDEV2024/Portfolio/assets/163412333/82a2efdc-114c-4727-9b94-7fc043ace81e)
 
-CONTACTOS:
+SOCIAL MEDIA & CONTACT:
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 
