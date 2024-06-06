@@ -1,10 +1,10 @@
 ![IMAGEREPO](https://github.com/ADRIDEV2024/Portfolio/assets/163412333/82a2efdc-114c-4727-9b94-7fc043ace81e)
 
-SOCIAL MEDIA & CONTACT :
+CONTACTOS:
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 
 ¡Bienvenido a mi portfolio!🙋‍♂️ Mi nombre es Adrian, vengo de España y soy un programador junior autodidacta que ha aprendido y practicado conceptos de programación desde hace dos años. Python es el mejor lenguaje para mí en este momento, y he realizado algunos proyectos básicos de Python  y otros un poco más complejos, algunos de ellos los verás en mis repositorios de Github. La programación es la mejor práctica para relajarme y aprender cosas maravillosas. Te invito a echar un vistazo a mis proyectos si eres un gran programador😎❤.
