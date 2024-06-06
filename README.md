@@ -35,13 +35,8 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 |[ATM-Machine](MyFavouriteProjects/ATMMachine)
 
 |[API-WEATHER](MyFavouriteProjects/WeatherAPI)
-<p align="center"
-	
-   <img src="https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/2e4aff75-1b0e-46f7-874d-cf962ed4cbe8" 
-	alt="[YOUR_ALT]"/>
-</p>
  
-[PasswordGenerator](OtherProjects/PasswordGenerator)
+|[PasswordGenerator](OtherProjects/PasswordGenerator)
 						      
 |[UrlShortener](URLShortener)   
 								
