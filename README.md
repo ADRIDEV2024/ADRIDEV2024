@@ -32,7 +32,7 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
                                                                         
 |[TheSnakeGame](FunnyGames/SnakeGame)
 
-|[ATM-Machine](MyFavouriteProjects/ATMMachine)                           ![OIG4 s](https://github.com/ADRIDEV2024/ADRIDEV2024/assets/163412333/f7cb7054-c195-4649-83e8-07ae7b57c553)
+|[ATM-Machine](MyFavouriteProjects/ATMMachine)                          
 
 |[API-WEATHER](MyFavouriteProjects/WeatherAPI)
  
