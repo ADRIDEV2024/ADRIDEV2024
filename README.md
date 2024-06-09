@@ -14,7 +14,7 @@ Welcome to my portfolio!🙋‍♂️ My name is Adrian,I´m from Spain and I´m
 Python is the best language for me at this moment, and I completed some basic Python projects  and some others medium level projects. You will see them in my Github repositories.
 Programming is the best practise for me to relax and learn wonderful things. I invite you to take a look to my projects if you are a great programmer😎❤.
 
-## SKILLS & KNOWLEADGE 🧠💻
+### SKILLS & KNOWLEADGE 🧠💻
 
          
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yellow) 
