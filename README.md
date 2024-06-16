@@ -28,21 +28,21 @@ Programming is the best practise for me to relax and learn wonderful things. I i
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
+ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / 
 
-|[CurrencyConverter](CurrencyConverter.py) 
+|[CurrencyConverter](CurrencyConverter.py)|
                                                                         
-|[TheSnakeGame](FunnyGames/SnakeGame)
+|[TheSnakeGame](FunnyGames/SnakeGame)|
 
-|[ATM-Machine](MyFavouriteProjects/ATMMachine)                          
+|[ATM-Machine](MyFavouriteProjects/ATMMachine)|                          
 
-|[API-WEATHER](MyFavouriteProjects/WeatherAPI)
+|[API-WEATHER](MyFavouriteProjects/WeatherAPI)|
  
-|[PasswordGenerator](OtherProjects/PasswordGenerator)
+|[PasswordGenerator](OtherProjects/PasswordGenerator)|
 						      
-|[UrlShortener](URLShortener)   
+|[UrlShortener](URLShortener)|   
 
-|[SimpleQuiz-Python](FunnyGames/SimpleQuizGame)
+|[SimpleQuiz-Python](FunnyGames/SimpleQuizGame)|
 
 
 
