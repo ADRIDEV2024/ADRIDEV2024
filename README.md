@@ -33,17 +33,16 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 
 |[CurrencyConverter](CurrencyConverter.py)|
                                                                         
+|[TheSnakeGame](FunnyGames/SnakeGame)|
 
 |[ATM-Machine](MyFavouriteProjects/ATMMachine)|                          
 
-|[TheSnakeGame](FunnyGames/SnakeGame)|
 |[API-WEATHER](MyFavouriteProjects/WeatherAPI)|
  
 |[PasswordGenerator](OtherProjects/PasswordGenerator)|
 						      
 |[UrlShortener](URLShortener)|   
 
-|[SimpleQuiz-Python](FunnyGames/SimpleQuizGame)|
 
 
 
