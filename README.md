@@ -33,7 +33,7 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 
 |[CurrencyConverter](CurrencyConverter.py)|
                                                                         
-|[TheSnakeGame]
+|[TheSnakeGame](FunnyGames/SnakeGame)|
 
 |[ATM-Machine](MyFavouriteProjects/ATMMachine)|                          
 
