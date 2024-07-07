@@ -14,7 +14,7 @@ Python is the best language for me at this moment, and I completed some basic Py
 Programming is the best practise for me to relax and learn wonderful things. I invite you to take a look to my projects if you are a great programmer😎❤.
 
 
-## SKILLS & KNOWLEADGE 🧠💻
+## COMPETENCIAS / SKILLS & KNOWLEADGE 🧠💻
 
          
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yellow) 
@@ -25,7 +25,7 @@ Programming is the best practise for me to relax and learn wonderful things. I i
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=black)
 ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=blue)
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&visual%20studio%20code&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
 
