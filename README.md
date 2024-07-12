@@ -29,19 +29,19 @@ Programming is the best practise for me to relax and learn wonderful things. I i
 
 ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
 
-|[CurrencyConverter](CurrencyConverter.py)|
+*[CurrencyConverter](CurrencyConverter.py)
                                                                         
-|[TheSnakeGame](FunnyGames/SnakeGame)|
+*[TheSnakeGame](FunnyGames/SnakeGame)
 
-|[ATM-Machine](MyFavouriteProjects/ATMMachine)|                          
+*[ATM-Machine](MyFavouriteProjects/ATMMachine)                          
 
-|[API-WEATHER](MyFavouriteProjects/WeatherAPI)|
+*|[API-WEATHER](MyFavouriteProjects/WeatherAPI)
  
-|[PasswordGenerator](OtherProjects/PasswordGenerator)|
+*[PasswordGenerator](OtherProjects/PasswordGenerator)
 						      
-|[UrlShortener](URLShortener)|   
+*[UrlShortener](URLShortener) 
 
-|[SimpleQuiz-Python](FunnyGames/SimpleQuizGame)|
+*[SimpleQuiz-Python](FunnyGames/SimpleQuizGame)
 
 
 
