@@ -13,7 +13,7 @@ Python is the best language for me at this moment, and I completed some basic Py
 Programming is the best practise for me to relax and learn wonderful things. I invite you to take a look to my projects if you are a great programmer😎❤.
 
 
-## COMPETENCIAS / SKILLS & KNOWLEADGE 🧠💻
+## COMPETENCIAS / SKILLS & KNOWLEADGE 
 
          
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yellow) 
