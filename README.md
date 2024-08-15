@@ -17,8 +17,8 @@ Programming is the best practise for me to relax and learn wonderful things. I i
 
 ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
 
-* [VIDEOGAMES-API/DJANGO](CurrencyConverter.py)
-* [LANGUAGE-APP /DJANGO](FunnyGames/SnakeGame)
+* [VIDEOGAMES-API/DJANGO](https://github.com/ADRIDEV2024/ADRIDEV2024-VIDEOGAME-API-DJANGO.git)
+* [LANGUAGE-APP /DJANGO]()
 * [REALTIME CHAT](MyFavouriteProjects/ATMMachine)
 * [API-WEATHER](MyFavouriteProjects/WeatherAPI)
 * [YOUTUBE VIDEO DOWNLOADER](OtherProjects/PasswordGenerator)
