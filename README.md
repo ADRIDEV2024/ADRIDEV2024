@@ -14,9 +14,17 @@ Python is the best language for me at this moment, and I completed some basic Py
 Programming is the best practise for me to relax and learn wonderful things. I invite you to take a look to my projects if you are a great programmer😎❤.
 
 
+
+ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
+
+* [VIDEOGAMES-API/DJANGO](CurrencyConverter.py)
+* [LANGUAGE-APP /DJANGO](FunnyGames/SnakeGame)
+* [REALTIME CHAT](MyFavouriteProjects/ATMMachine)
+* [API-WEATHER](MyFavouriteProjects/WeatherAPI)
+* [YOUTUBE VIDEO DOWNLOADER](OtherProjects/PasswordGenerator)
+         
 ## COMPETENCIAS / SKILLS & KNOWLEADGE 💻🧠
 
-         
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yellow) 
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
@@ -27,15 +35,6 @@ Programming is the best practise for me to relax and learn wonderful things. I i
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
-
-* [CurrencyConverter](CurrencyConverter.py)
-* [TheSnakeGame](FunnyGames/SnakeGame)
-* [ATM-Machine](MyFavouriteProjects/ATMMachine)
-* [API-WEATHER](MyFavouriteProjects/WeatherAPI)
-* [PasswordGenerator](OtherProjects/PasswordGenerator)
-* [UrlShortener](URLShortener)
-* [SimpleQuiz-Python](FunnyGames/SimpleQuizGame)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIDEV2024&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
