@@ -20,8 +20,8 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 * [VIDEOGAMES-API/DJANGO](https://github.com/ADRIDEV2024/ADRIDEV2024-VIDEOGAME-API-DJANGO.git)
 * [LANGUAGE-APP /DJANGO](https://github.com/ADRIDEV2024/LanguageApp.git)
 * [REALTIME CHAT](https://github.com/ADRIDEV2024/RealTimeChatApp-Python.git)
-* [API-WEATHER](MyFavouriteProjects/WeatherAPI)
-* [YOUTUBE VIDEO DOWNLOADER](OtherProjects/PasswordGenerator)
+* [API-WEATHER](https://github.com/ADRIDEV2024/APIWheater.git)
+* [YOUTUBE VIDEO DOWNLOADER]()
          
 ## COMPETENCIAS / SKILLS & KNOWLEADGE 💻🧠
 
