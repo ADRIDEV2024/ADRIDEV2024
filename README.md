@@ -3,9 +3,9 @@
 
 ## REDES SOCIALES Y CONTACTOS / SOCIAL MEDIA AND CONTACT:
 
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 ¡Bienvenido a mi portfolio!🙋‍♂️ Mi nombre es Adrian, vivo en España y soy un programador junior autodidacta que ha trabajado como Freelancer durante un año en la plataforma Fiverr, consolidando algunas de las más importantes habilidades y técnicas como desarrollador del lado Backend. Python es el mejor lenguaje para mí en este momento, y he realizado algunos proyectos básicos de Python  y otros un poco más complejos, algunos de ellos los verás en mis repositorios de Github. La programación es la mejor práctica para relajarme y aprender cosas maravillosas💻. Te invito a echar un vistazo a mis proyectos si eres un gran programador😎❤.
