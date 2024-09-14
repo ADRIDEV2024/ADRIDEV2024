@@ -1,6 +1,5 @@
 ![IMAGEN](https://github.com/user-attachments/assets/c1c893a1-645d-4d06-a845-0fdbc04bc5ea)
 
-
 ## REDES SOCIALES Y CONTACTOS / SOCIAL MEDIA AND CONTACT:
 
 ![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
