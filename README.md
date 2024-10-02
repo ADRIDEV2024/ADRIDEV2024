@@ -23,6 +23,7 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
  * [REALTIME CHAT](https://github.com/ADRIDEV2024/RealTimeChatApp-Python.git)
  * [API-WEATHER](https://github.com/ADRIDEV2024/APIWheater.git)
  * [YOUTUBE VIDEO DOWNLOADER](https://github.com/ADRIDEV2024/Youtube-Downloader.git)
+ * [CURRENCY CONVERTER](https://github.com/ADRIDEV2024/CurrencyConverter.git)
          
 ## COMPETENCIAS / SKILLS & KNOWLEADGE 💻🧠
 
