@@ -12,6 +12,8 @@ Welcome to my portfolio!🙋‍♂️ My name is Adrian,I live in Spain and I´m
 Python is the best language for me at this moment, and I developed some basic Python projects and some others medium level projects. You will see them in my Github repositories.
 Programming is the best practise for me to relax and learn wonderful things. I invite you to take a look to my projects if you are a great programmer😎❤.
 
+
+
 ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJECTS IN THIS PORTFOLIO:
 
 
