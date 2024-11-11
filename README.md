@@ -9,6 +9,7 @@
 ¡Bienvenido a mi portfolio!🙋‍♂️ Mi nombre es Adrian, vivo en España y soy un programador junior autodidacta que ha trabajado como Freelancer durante un año en la plataforma Fiverr, consolidando algunas de las más importantes habilidades y técnicas como desarrollador del lado Backend. Python es el mejor lenguaje para mí en este momento, y he desarrollado algunos proyectos básicos de Python  y otros un poco más complejos, algunos de ellos los verás en mis repositorios de Github. La programación es la mejor práctica para relajarme y aprender cosas maravillosas💻. Te invito a echar un vistazo a mis proyectos si eres un gran programador😎❤.
 
 Welcome to my portfolio!🙋‍♂️ My name is Adrian,I live in Spain and I´m an autodidact junior programmer that worked as a freelancer along one year on Fiverr platform, where I have consolidated some of my skills and techniques as a Backend developer.
+
 Python is the best language for me at this moment, and I developed some basic Python projects and some others medium level projects. You will see them in my Github repositories.
 Programming is the best practise for me to relax and learn wonderful things. I invite you to take a look to my projects if you are a great programmer😎❤.
 
