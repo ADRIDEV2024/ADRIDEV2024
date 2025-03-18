@@ -37,6 +37,9 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 ![MONGODB](https://img.shields.io/badge/MongoDB-109989?style=for-the-badge&logo=MONGODB&logoColor=green)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIDEV2024&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
