@@ -39,7 +39,6 @@ ALGUNOS DE MIS PROYECTOS PERSONALES EN ESTE PORTFOLIO / SOME OF MY PERSONAL PROJ
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIDEV2024&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
